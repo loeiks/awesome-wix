@@ -1,2 +1,3 @@
-# awesome-wix
-List of some tools that can be used with Wix sites/apps.
+# Awesome Wix
+
+List of some tools and tutorials related with Wix ecosystem.
