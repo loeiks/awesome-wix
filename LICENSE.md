@@ -1,1 +1,1 @@
-I do not allow any PR, create issues for contents you want to be included here.
+I do not allow any PR, create issues for contents you want to be included here. There is not license this is just something like notes section.
