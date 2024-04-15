@@ -4,6 +4,7 @@ List of some tools and tutorials related with Wix ecosystem.
 
 ### Official Wix APIs:
 
+- [Wix Dev Home](https://dev.wix.com/) - All docs about Wix development.
 - [Wix Headless APIs (JS SDK)](https://dev.wix.com/docs/sdk)
 - [Wix REST APIs](https://dev.wix.com/docs/rest)
 - [Velo APIs](https://www.wix.com/velo/reference/)
