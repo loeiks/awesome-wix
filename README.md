@@ -11,6 +11,11 @@ List of some tools and tutorials related with Wix ecosystem.
 
 ---
 
+### Free Courses
+
+- [Wix Learn Courses](https://www.wix.com/learn/library/coding/courses) - official courses by Wix Learn team related with Velo and coding.
+- [Velo Course by Codecademy](https://www.codecademy.com/learn/create-a-professional-website-with-velo-by-wix) - free course at codecademy to learn JS and Velo together with projects, quizes and interactive examples.
+
 ### Tutorials
 
 - [Shoonia Blog](https://shoonia.site/) - a blog with full of tutorials about Wix and Velo. Made by **Shoonia**.
@@ -36,4 +41,4 @@ List of some tools and tutorials related with Wix ecosystem.
 
 ### Content Creators
 
-[ExWeiv](https://github.com/ExWeiv), [Shoonia](https://github.com/shoonia), [Kentin](quentin@enhancement.studio), [Wix Wiz](https://www.youtube.com/@thewixwiz)
+[ExWeiv](https://github.com/ExWeiv), [Shoonia](https://github.com/shoonia), [Kentin](quentin@enhancement.studio), [Wix Wiz](https://www.youtube.com/@thewixwiz), [Codecademy](https://www.codecademy.com/)
