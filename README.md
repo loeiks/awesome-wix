@@ -29,6 +29,7 @@ List of some tools and tutorials related with Wix ecosystem.
 - [Jobs Config Builder](https://shoonia.github.io/jobs.config/) - an online tool to create jobs.config file with UI. Made by **Shoonia**.
 - [Velogger](https://velogger.dev/) - log monitoring tool that works with site-monitoring SPI, for Velo based projects. Made by **Kentin**
 - [wix-react](https://github.com/ExWeiv/wix-react) - a tool/GitHub repo to integrate CSS, SCSS and React (+ TS support) with Wix using custom elements and local env. Made by **ExWeiv**.
+- [Velo Filesystem Extension](https://chromewebstore.google.com/detail/velo-filesystem/gjmdfafehkeddjhielckakekclainbpn) - a Chrome extension to let you download Velo code files into your pc. Made by **Shoonia**.
 
 ### Code Packages
 
