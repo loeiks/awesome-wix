@@ -22,7 +22,8 @@ List of some tools and tutorials related with Wix ecosystem.
 - [Wix Dev YouTube](https://www.youtube.com/@WixforDevelopers) - Wix Dev official YouTube channel with tutorials and other Velo related contents. Made by **Wix**.
 - [Shoonia Blog](https://shoonia.site/) - a blog with full of tutorials about Wix and Velo. Made by **Shoonia**.
 - [Kentin's Blog](https://enhancementstudio.wixsite.com/leg-me-up/blog) - an old blog with Velo examples and tutorials. Made by **Kentin**.
-- [Wix Wiz YouTube](https://www.youtube.com/@thewixwiz) - a YouTube channel with Velo and Wix tutorials. Made by \*_Wix Wix_
+- [Wix Wiz YouTube](https://www.youtube.com/@thewixwiz) - a YouTube channel with Velo and Wix tutorials. Made by **Wix Wiz**.
+- [Velo Examples by Wix](https://www.wix.com/velo/examples) - official Velo examples created by Wix team for every level. Made by **Wix**.
 
 ### Tutorials (Single Topic Posts)
 
