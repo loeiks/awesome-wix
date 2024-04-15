@@ -36,9 +36,11 @@ List of some tools and tutorials related with Wix ecosystem.
 - [wix-ce-helpers](https://github.com/ExWeiv/wix-ce-helpers) - an NPM package with helper functions for custom elements in Wix. Made by **ExWeiv**.
 - [wix-secret-helpers](https://github.com/ExWeiv/wix-secret-helpers) - an NPM package with helper functions for Velo Secrets Manager. Made by **ExWeiv**.
 - [easy-auth](https://github.com/ExWeiv/easy-auth) - an NPM package for making OAuth providers integration easier and flexible in Wix env.  Made by **ExWeiv**.
+- [velo-bind](https://wix-incubator.github.io/velo/) - an NPM package for Velo to grab elements and pass dynamic contents to elements. Made by **Wix**.
+- [react-velo](https://github.com/wix-incubator/react-velo) - an NPM package to use React syntax and features with Wix page elements. Made by **Wix**.
 
 ---
 
 ### Content Creators
 
-[ExWeiv](https://github.com/ExWeiv), [Shoonia](https://github.com/shoonia), [Kentin](mailto:quentin@enhancement.studio), [Wix Wiz](https://www.youtube.com/@thewixwiz), [Codecademy](https://www.codecademy.com/)
+[ExWeiv](https://github.com/ExWeiv), [Shoonia](https://github.com/shoonia), [Kentin](mailto:quentin@enhancement.studio), [Wix Wiz](https://www.youtube.com/@thewixwiz), [Codecademy](https://www.codecademy.com/), [Wix Incubator](https://github.com/wix-incubator/)
