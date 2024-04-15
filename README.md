@@ -41,4 +41,4 @@ List of some tools and tutorials related with Wix ecosystem.
 
 ### Content Creators
 
-[ExWeiv](https://github.com/ExWeiv), [Shoonia](https://github.com/shoonia), [Kentin](quentin@enhancement.studio), [Wix Wiz](https://www.youtube.com/@thewixwiz), [Codecademy](https://www.codecademy.com/)
+[ExWeiv](https://github.com/ExWeiv), [Shoonia](https://github.com/shoonia), [Kentin](mailto:quentin@enhancement.studio), [Wix Wiz](https://www.youtube.com/@thewixwiz), [Codecademy](https://www.codecademy.com/)
