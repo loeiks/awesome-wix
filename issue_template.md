@@ -14,7 +14,7 @@ Please paste the URL of the content.
 
 **Creator URL:**
 
-Please paste the URL taht will be linked to Creator's name. (Commercial links are not allowed and will be ignored)
+Please paste the URL that will be linked to Creator's name. (Commercial links are not allowed and will be ignored)
 
 **Additional Information:**
 
