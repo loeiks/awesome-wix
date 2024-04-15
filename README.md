@@ -17,12 +17,17 @@ List of some tools and tutorials related with Wix ecosystem.
 - [Wix Learn Courses](https://www.wix.com/learn/library/coding/courses) - official courses by Wix Learn team related with Velo and coding.
 - [Velo Course by Codecademy](https://www.codecademy.com/learn/create-a-professional-website-with-velo-by-wix) - free course at codecademy to learn JS and Velo together with projects, quizes and interactive examples.
 
-### Tutorials
+### Tutorials (Blogs, YouTube Channels...)
 
 - [Wix Dev YouTube](https://www.youtube.com/@WixforDevelopers) - Wix Dev official YouTube channel with tutorials and other Velo related contents. Made by **Wix**.
 - [Shoonia Blog](https://shoonia.site/) - a blog with full of tutorials about Wix and Velo. Made by **Shoonia**.
 - [Kentin's Blog](https://enhancementstudio.wixsite.com/leg-me-up/blog) - an old blog with Velo examples and tutorials. Made by **Kentin**.
-- [Wix Wiz YouTube](https://www.youtube.com/@thewixwiz) - a YouTube channel with Velo and Wix tutorials. Made by **Wix Wix**
+- [Wix Wiz YouTube](https://www.youtube.com/@thewixwiz) - a YouTube channel with Velo and Wix tutorials. Made by \*_Wix Wix_
+
+### Tutorials (Single Topic Posts)
+
+- [PDFKit Tutorial with Velo](https://github.com/amandamartin-dev/pdfkit-demo-wixstudio) - learn how to use PDFKit with Velo. Made by **AmandaM**.
+- [Tensorflow + Velo Tutorial](https://github.com/amandamartin-dev/velo-tensorflow) - see an example of how to use Tensorflow.js with Velo. Made by **AmandaM**.
 
 ### Tools
 
@@ -43,9 +48,10 @@ List of some tools and tutorials related with Wix ecosystem.
 - [easy-auth](https://github.com/ExWeiv/easy-auth) - an NPM package for making OAuth providers integration easier and flexible in Wix env. Made by **ExWeiv**.
 - [velo-bind](https://wix-incubator.github.io/velo/) - an NPM package for Velo to grab elements and pass dynamic contents to elements. Made by **Wix**.
 - [react-velo](https://github.com/wix-incubator/react-velo) - an NPM package to use React syntax and features with Wix page elements. Made by **Wix**.
+- [velo-mvvm](https://www.npmjs.com/package/@wix/velo-mvvm) - an NPM package to use declarative reactive programming with Velo. Made by **Wix**.
 
 ---
 
 ### Content Creators
 
-[ExWeiv](https://github.com/ExWeiv), [Shoonia](https://github.com/shoonia), [Kentin](mailto:quentin@enhancement.studio), [Wix Wiz](https://www.youtube.com/@thewixwiz), [Codecademy](https://www.codecademy.com/), [Wix Incubator](https://github.com/wix-incubator/)
+[ExWeiv](https://github.com/ExWeiv), [Shoonia](https://github.com/shoonia), [Kentin](mailto:quentin@enhancement.studio), [Wix Wiz](https://www.youtube.com/@thewixwiz), [Codecademy](https://www.codecademy.com/), [Wix Incubator](https://github.com/wix-incubator/), [AmandaM](https://github.com/amandamartin-dev)
