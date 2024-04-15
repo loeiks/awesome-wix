@@ -14,6 +14,7 @@ List of some tools and tutorials related with Wix ecosystem.
 ### Tutorials
 
 - [Shoonia Blog](https://shoonia.site/) - a blog with full of tutorials about Wix and Velo. Made by [Shoonia](https://github.com/shoonia).
+- [Kentin's Blog](https://enhancementstudio.wixsite.com/leg-me-up/blog) - an old blog with Velo examples and tutorials. Made by [Kendin]().
 
 ### Tools
 
