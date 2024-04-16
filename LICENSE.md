@@ -1,1 +1,0 @@
-Create issues for contents you want to be included here. Or create PRs. There is not license this is just something like notes section.
