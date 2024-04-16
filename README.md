@@ -60,4 +60,4 @@ List of some tools and tutorials related with Wix ecosystem.
 
 <br>
 
-> [Contribution](./.github/contributing.md)
+> [Contribution](./.github/CONTRIBUTING.md)
