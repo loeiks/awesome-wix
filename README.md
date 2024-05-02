@@ -12,6 +12,8 @@ List of some tools and tutorials related with Wix ecosystem.
 
 ---
 
+> If you are using LLMs to help you with Velo or Wix related code (ChatGPT, Gemini etc.) you can also try [Phind](https://www.phind.com/search?home=true) which can help you better since it can read latest docs on the internet and also provide you the resources it's used when answering your question. (It also has VSCode extension that can work together with your code files)
+
 ### Free Courses
 
 - [Wix Learn Courses](https://www.wix.com/learn/library/coding/courses) - official courses by Wix Learn team related with Velo and coding.
