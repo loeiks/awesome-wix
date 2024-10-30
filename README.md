@@ -1,18 +1,18 @@
 # Awesome Wix
 
-List of some tools and tutorials related with Wix ecosystem.
+List of some tools and tutorials related with Wix ecosystem. You can create many cool things with Wix, you can create complex web apps, basic websites, advanced websites, and more. You can actually use Wix for some business functions too. You can create frontend with React or anything you want and then use Wix APIs to bring business logic to your application easily without needing to develop custom functionalities by yourself.
+
+In this repository you can find Wix developer related resources of many kind;
 
 ### Official Wix APIs:
 
-- [Wix Dev Home](https://dev.wix.com/) - All docs about Wix development.
+- [Wix Developer Home](https://dev.wix.com/) - All docs about Wix development.
 - [Wix Headless APIs (JS SDK)](https://dev.wix.com/docs/sdk)
 - [Wix REST APIs](https://dev.wix.com/docs/rest)
-- [Velo APIs](https://www.wix.com/velo/reference/)
-- [Velo SPIs](https://www.wix.com/velo/reference/spis/)
+- [Velo APIs/SPIs](https://dev.wix.com/docs/velo)
+- [Wix GraphQL APIs](https://dev.wix.com/docs/graphql)
 
 ---
-
-> If you are using LLMs to help you with Velo or Wix related code (ChatGPT, Gemini etc.) you can also try [Phind](https://www.phind.com/search?home=true) which can help you better since it can read latest docs on the internet and also provide you the resources it's used when answering your question. (It also has VSCode extension that can work together with your code files)
 
 ### Official Certification by Wix
 
