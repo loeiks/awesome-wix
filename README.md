@@ -4,13 +4,14 @@ List of some tools and tutorials related with Wix ecosystem. You can create many
 
 In this repository you can find Wix developer related resources of many kind;
 
-### Official Wix APIs:
+### Official Wix Documentations & APIs:
 
 - [Wix Developer Home](https://dev.wix.com/) - All docs about Wix development.
 - [Wix Headless APIs (JS SDK)](https://dev.wix.com/docs/sdk)
 - [Wix REST APIs](https://dev.wix.com/docs/rest)
 - [Velo APIs/SPIs](https://dev.wix.com/docs/velo)
 - [Wix GraphQL APIs](https://dev.wix.com/docs/graphql)
+- [Wix Ricos Documentation](https://ricos.dev/document-reference/) - Wix Rich Content documentation.
 
 ---
 
@@ -45,6 +46,7 @@ In this repository you can find Wix developer related resources of many kind;
 - [Velo Filesystem Extension](https://chromewebstore.google.com/detail/velo-filesystem/gjmdfafehkeddjhielckakekclainbpn) - a Chrome extension to let you download Velo code files into your pc. Made by **Shoonia**.
 - [Check Node.js Version in Velo](https://shoonia.site/wix-velo-nodejs-version/) - check current Node.js version in Wix's env. Made by **Shoonia**.
 - [Velo Secret Manager Benchmark](https://shoonia.site/secret-manager-benchmark/) - check how fast secret manager with this benchmark tool. Made by **Shoonia**.
+- [Wix Rich Content Playground](https://ricos.dev/) **Wix Ricos**
 
 ### Code Packages
 
@@ -62,7 +64,7 @@ In this repository you can find Wix developer related resources of many kind;
 
 ### Content Creators
 
-[ExWeiv](https://github.com/ExWeiv), [Shoonia](https://github.com/shoonia), [Kentin](mailto:quentin@enhancement.studio), [Wix Wiz](https://www.youtube.com/@thewixwiz), [Codecademy](https://www.codecademy.com/), [Wix Incubator](https://github.com/wix-incubator/), [AmandaM](https://github.com/amandamartin-dev), [Walter Odibi](https://www.youtube.com/@wixideas)
+[ExWeiv](https://github.com/ExWeiv), [Shoonia](https://github.com/shoonia), [Kentin](mailto:quentin@enhancement.studio), [Wix Wiz](https://www.youtube.com/@thewixwiz), [Codecademy](https://www.codecademy.com/), [Wix Incubator](https://github.com/wix-incubator/), [AmandaM](https://github.com/amandamartin-dev), [Walter Odibi](https://www.youtube.com/@wixideas), [Wix Ricos](https://ricos.dev/)
 
 <br>
 
