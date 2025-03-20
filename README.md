@@ -50,6 +50,7 @@ In this repository you can find Wix developer related resources of many kind;
 ### Development Tools
 
 - [wix-react](https://github.com/ExWeiv/wix-react) - a tool/GitHub repo to integrate CSS, SCSS and React (+ TS support) with Wix using custom elements and local env. Made by **ExWeiv**.
+- [lucy-cli](https://github.com/Integral-Systems/wix-lucy-cli) - a tool/GitHub repo to integrate TS, ESlint, SCSS, Vitest and more with your Wix website/web app. Made by **Gradlon**.
 
 ### Code Packages
 
@@ -67,7 +68,7 @@ In this repository you can find Wix developer related resources of many kind;
 
 ### Content Creators
 
-[ExWeiv](https://github.com/ExWeiv), [Shoonia](https://github.com/shoonia), [Kentin](mailto:quentin@enhancement.studio), [Wix Wiz](https://www.youtube.com/@thewixwiz), [Codecademy](https://www.codecademy.com/), [Wix Incubator](https://github.com/wix-incubator/), [AmandaM](https://github.com/amandamartin-dev), [Walter Odibi](https://www.youtube.com/@wixideas), [Wix Ricos](https://ricos.dev/)
+[ExWeiv](https://github.com/ExWeiv), [Shoonia](https://github.com/shoonia), [Kentin](mailto:quentin@enhancement.studio), [Wix Wiz](https://www.youtube.com/@thewixwiz), [Codecademy](https://www.codecademy.com/), [Wix Incubator](https://github.com/wix-incubator/), [AmandaM](https://github.com/amandamartin-dev), [Walter Odibi](https://www.youtube.com/@wixideas), [Wix Ricos](https://ricos.dev/), [Gradlon](https://github.com/Gradlon)
 
 <br>
 
