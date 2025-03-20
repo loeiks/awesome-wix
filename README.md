@@ -69,7 +69,7 @@ In this repository you can find Wix developer related resources of many kind;
 
 ### Content Creators
 
-[ExWeiv](https://github.com/ExWeiv), [Shoonia](https://github.com/shoonia), [Kentin](mailto:quentin@enhancement.studio), [Wix Wiz](https://www.youtube.com/@thewixwiz), [Codecademy](https://www.codecademy.com/), [Wix Incubator](https://github.com/wix-incubator/), [AmandaM](https://github.com/amandamartin-dev), [Walter Odibi](https://www.youtube.com/@wixideas), [Wix Ricos](https://ricos.dev/), [Gradlon](https://github.com/Gradlon)
+[ExWeiv](https://github.com/ExWeiv), [Shoonia](https://github.com/shoonia), [Kentin](mailto:quentin@enhancement.studio), [Wix Wiz](https://www.youtube.com/@thewixwiz), [Codecademy](https://www.codecademy.com/), [Wix Incubator](https://github.com/wix-incubator/), [AmandaM](https://github.com/amandamartin-dev), [Walter Odibi](https://www.youtube.com/@wixideas), [Wix Ricos](https://ricos.dev/), [Gradlon](https://github.com/Gradlon), [loeiks](https://github.com/loeiks)
 
 <br>
 
