@@ -51,6 +51,7 @@ In this repository you can find Wix developer related resources of many kind;
 
 - [wix-react](https://github.com/ExWeiv/wix-react) - a tool/GitHub repo to integrate CSS, SCSS and React (+ TS support) with Wix using custom elements and local env. Made by **ExWeiv**.
 - [lucy-cli](https://github.com/Integral-Systems/wix-lucy-cli) - a tool/GitHub repo to integrate TS, ESlint, SCSS, Vitest and more with your Wix website/web app. Made by **Gradlon**.
+- [wixn](https://github.com/loeiks/wixn) - a tool to install/remove multiple NPM packages by using `wix install` and `wix uninstall` command in the background. Made by **loeiks**.
 
 ### Code Packages
 
