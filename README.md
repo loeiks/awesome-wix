@@ -27,7 +27,7 @@ In this repository you can find Wix developer related resources of many kind;
 ### Tutorials (Blogs, YouTube Channels...)
 
 - [Wix Dev YouTube](https://www.youtube.com/@WixforDevelopers) - Wix Dev official YouTube channel with tutorials and other Velo related contents. Made by **Wix**.
-- [Shoonia Blog](https://shoonia.site/) - a blog with full of tutorials about Wix and Velo. Made by **Shoonia**.
+- [Shoonia Blog](https://shoonia.netlify.app/) - a blog with full of tutorials about Wix and Velo. Made by **Shoonia**.
 - [Kentin's Blog](https://enhancementstudio.wixsite.com/leg-me-up/blog) - an old blog with Velo examples and tutorials. Made by **Kentin**.
 - [Wix Wiz YouTube](https://www.youtube.com/@thewixwiz) - a YouTube channel with Velo and Wix tutorials. Made by **Wix Wiz**.
 - [Velo Examples by Wix](https://www.wix.com/velo/examples) - official Velo examples created by Wix team for every level. Made by **Wix**.
@@ -43,8 +43,8 @@ In this repository you can find Wix developer related resources of many kind;
 - [Jobs Config Builder](https://shoonia.github.io/jobs.config/) - an online tool to create jobs.config file with UI. Made by **Shoonia**.
 - [Velogger](https://velogger.dev/) - log monitoring tool that works with site-monitoring SPI, for Velo based projects. Made by **Kentin**
 - [Velo Filesystem Extension](https://chromewebstore.google.com/detail/velo-filesystem/gjmdfafehkeddjhielckakekclainbpn) - a Chrome extension to let you download Velo code files into your pc. Made by **Shoonia**.
-- [Check Node.js Version in Velo](https://shoonia.site/wix-velo-nodejs-version/) - check current Node.js version in Wix's env. Made by **Shoonia**.
-- [Velo Secret Manager Benchmark](https://shoonia.site/secret-manager-benchmark/) - check how fast secret manager with this benchmark tool. Made by **Shoonia**.
+- [Check Node.js Version in Velo](https://shoonia.netlify.app/wix-velo-nodejs-version/) - check current Node.js version in Wix's env. Made by **Shoonia**.
+- [Velo Secret Manager Benchmark](https://shoonia.netlify.app/secret-manager-benchmark/) - check how fast secret manager with this benchmark tool. Made by **Shoonia**.
 - [Wix Rich Content Playground](https://ricos.dev/) - Playground for creating custom rich content. Made by **Wix Ricos** [Official Tool]
 
 ### Development Tools
