@@ -7,17 +7,18 @@ In this repository you can find Wix developer related resources of many kind;
 ### Official Wix Documentations & APIs:
 
 - [Wix Developer Home](https://dev.wix.com/) - All docs about Wix development.
-- [Wix Headless APIs (JS SDK)](https://dev.wix.com/docs/sdk)
-- [Wix REST APIs](https://dev.wix.com/docs/rest)
-- [Velo APIs/SPIs](https://dev.wix.com/docs/velo)
-- [Wix GraphQL APIs](https://dev.wix.com/docs/graphql)
-- [Wix Ricos Documentation](https://ricos.dev/document-reference/) - Wix Rich Content documentation.
+- [Wix Unified API Reference](https://dev.wix.com/docs/api-reference)
+- [Wix SDK API Reference](https://dev.wix.com/docs/sdk)
+- [Wix REST API Reference](https://dev.wix.com/docs/rest)
+- [Velo APIs/SPIs Reference](https://dev.wix.com/docs/velo)
+- [Wix GraphQL APIs Reference](https://dev.wix.com/docs/graphql)
+- [Wix Ricos Documentation](https://ricos.dev/document-reference/)
 
 ---
 
 ### Official Certification by Wix
 
-- [Wix Studio Developer Certificate](https://www.wix.com/studio/academy/wixstudiocertifications/developer) - official certification created by Wix.
+- [Wix Studio Developer Certificate](https://www.wix.com/studio/academy/certifications/developer) - official certification created by Wix.
 
 ### Free Courses
 
@@ -25,6 +26,9 @@ In this repository you can find Wix developer related resources of many kind;
 - [Velo Course by Codecademy](https://www.codecademy.com/learn/create-a-professional-website-with-velo-by-wix) - free course at codecademy to learn JS and Velo together with projects, quizes and interactive examples.
 
 ### Tutorials (Blogs, YouTube Channels...)
+
+- [Wix Studio Forum](https://forum.wixstudio.com/c/show-and-tell/16) - Wix's official forum for everyone including developers, find answers to questions, tutorials and more. Made by **Wix**.
+- [Wix Studio Discord](https://discord.gg/wixstudio) - Wix's official Discord server for everyone including developers, ask questions, share proud moments and more. Made by **Wix**.
 
 - [Wix Dev YouTube](https://www.youtube.com/@WixforDevelopers) - Wix Dev official YouTube channel with tutorials and other Velo related contents. Made by **Wix**.
 - [Shoonia Blog](https://shoonia.netlify.app/) - a blog with full of tutorials about Wix and Velo. Made by **Shoonia**.
