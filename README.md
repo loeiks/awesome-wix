@@ -29,7 +29,6 @@ In this repository you can find Wix developer related resources of many kind;
 
 - [Wix Studio Forum](https://forum.wixstudio.com/c/show-and-tell/16) - Wix's official forum for everyone including developers, find answers to questions, tutorials and more. Made by **Wix**.
 - [Wix Studio Discord](https://discord.gg/wixstudio) - Wix's official Discord server for everyone including developers, ask questions, share proud moments and more. Made by **Wix**.
-
 - [Wix Dev YouTube](https://www.youtube.com/@WixforDevelopers) - Wix Dev official YouTube channel with tutorials and other Velo related contents. Made by **Wix**.
 - [Shoonia Blog](https://shoonia.netlify.app/) - a blog with full of tutorials about Wix and Velo. Made by **Shoonia**.
 - [Kentin's Blog](https://enhancementstudio.wixsite.com/leg-me-up/blog) - an old blog with Velo examples and tutorials. Made by **Kentin**.
